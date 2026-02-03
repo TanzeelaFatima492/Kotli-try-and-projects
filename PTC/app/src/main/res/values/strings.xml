@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Picture to Call</string>
+    <string name="scan_button">Scan Number</string>
+    <string name="processing">Processing...</string>
+    <string name="call">Call</string>
+    <string name="cancel">Cancel</string>
+    <string name="phone_detected">Phone Number Detected</string>
+    <string name="permission_required">Camera and call permissions are required</string>
+    <string name="camera_failed">Camera failed to start</string>
+    <string name="capture_failed">Capture failed. Please try again.</string>
+    <string name="processing_failed">Failed to recognize text. Please try again.</string>
+    <string name="image_error">Error processing image</string>
+    <string name="call_failed">Failed to make call</string>
+    <string name="call_permission">Call permission is required</string>
+</resources>
